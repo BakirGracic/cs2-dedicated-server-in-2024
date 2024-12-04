@@ -4,19 +4,9 @@
 
 In this guide you can learn how to create and host a dedicated Counter Strike 2 server using [Hetzner](https://www.hetzner.com/) (German Hosting Provider)
 
-## Inspiration
-
-Money. Hetzner gives out ~50€ for a good community guide. Plus I like to give back to the community and have always wanted to build a server myself. This was just a summary of my journey findings and ways.
-
 ## Where
 
-This guide is an exact copy of the one in the [pull request](https://github.com/hetzneronline/community-content/pull/988) to the Hetzner Community guides repository. I did not modify it since I personally like Hetzner and gladly recommend it.
-
-As of writing this, my PR is _not_ merged, will update (if I remember) when and if they merge it to notify you, and, if needed, update the final guide version
-
-## Also Where
-
-You can also find this guide on my personal website and blog [bakir.dev](https://bakir.dev) exactly [here](https://bakir.dev/blog/cs2-dedicated-server-in-2024)
+You can find this guide on my personal website and blog [bakir.dev](https://bakir.dev) exactly [here](https://bakir.dev/blog/cs2-dedicated-server-in-2024)
 
 ## License
 
